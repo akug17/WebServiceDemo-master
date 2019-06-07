@@ -62,7 +62,7 @@ android:layout_below="@id/rel1">
 
     <TextView android:layout_width="137dp" android:layout_height="wrap_content"
 
-              android:text="country"
+              android:text="countryy"
 
               android:layout_alignParentTop="true"
               android:id="@+id/country"
